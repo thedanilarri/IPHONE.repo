@@ -1,0 +1,14 @@
+* {background-color: rgb(213, 227, 227);}
+* {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+h2 /* frase de HEllo...*/ 
+{ 
+        }
+
+h1 /* header Steelix...*/
+ {background-image:url(img/stelixheader.png);
+    background-position: 50% 0%;
+    height: 100px;
+    }
+
+h1,p,ul,h2,h3 {text-align: center;}
+
